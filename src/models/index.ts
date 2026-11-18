@@ -1,0 +1,9 @@
+export { User } from "./User";
+export { Professional } from "./Professional";
+export { Service } from "./Service";
+export { Booking } from "./Booking";
+export { Review } from "./Review";
+export { Notification } from "./Notification";
+export { Dispute } from "./Dispute";
+export { Payout } from "./Payout";
+export { Otp } from "./Otp";
